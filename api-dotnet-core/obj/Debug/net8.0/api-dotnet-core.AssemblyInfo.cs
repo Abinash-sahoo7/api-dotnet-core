@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api-dotnet-core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a13d28a831e25a55d561d8d603355c8f54a91dca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41f77599e8bd9d7978b7284c732c13639e14addc")]
 [assembly: System.Reflection.AssemblyProductAttribute("api-dotnet-core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api-dotnet-core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
